@@ -1,0 +1,1 @@
+By the end of this short project I will have demonstrated an understanding of basic HTML conventions and file organization that will serve as a foundation for my web development journey.
